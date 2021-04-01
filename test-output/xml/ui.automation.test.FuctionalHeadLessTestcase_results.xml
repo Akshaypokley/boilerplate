@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="30.534">
+  <properties />
+  
+  
+            <testcase name="CreationAndValidationCards" time="5.116" classname="ui.automation.test.FuctionalHeadLessTestcase" />
+                <testcase name="loginTest" time="10.099" classname="ui.automation.test.FuctionalHeadLessTestcase" />
+                <testcase name="CreationAndValidationCards" time="5.037" classname="ui.automation.test.FuctionalHeadLessTestcase" />
+                <testcase name="CreationAndValidationCards" time="5.133" classname="ui.automation.test.FuctionalHeadLessTestcase" />
+                <testcase name="CreationAndValidationCards" time="5.149" classname="ui.automation.test.FuctionalHeadLessTestcase" />
+      
+</testsuite>
